@@ -1,4 +1,4 @@
-## Please use [Counter-Up](https://github.com/ashrafuzzaman04/Counter-Up) instead, Counter Up 2 greatly improves on Counter Up, has no dependencies, lightweight, uses modern code, and more.
+## Please use [Counter-Up2](https://github.com/ashrafuzzaman04/Counter-Up) instead, Counter Up 2 greatly improves on Counter Up, has no dependencies, lightweight, uses modern code, and more.
 
 # Counter-Up
 
@@ -59,6 +59,6 @@ $('.counter').counterUp({
 
 # Social Stuff
 
-Linkedin: [@bfintal](https://www.linkedin.com/in/ashraf-uzzaman/)
+Linkedin: [Ashraf Uzzaman](https://www.linkedin.com/in/ashraf-uzzaman/)
 
 Facebook: <a href='https://www.facebook.com/ashraf.uzmahim/' rel='author'>Ashraf Uzzaman</a>
